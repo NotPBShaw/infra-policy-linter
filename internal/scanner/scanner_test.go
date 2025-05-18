@@ -8,4 +8,7 @@ func TestScanFindsPublicResources(t *testing.T) {
 	if len(findings) != 1 {
 		t.Fatalf("expected 1 finding, got %d", len(findings))
 	}
+	if findings[0].Severity != "high" {
+		t.Fatalf("expected high severity, got %s", findings[0].Severity)
+	}
 }
