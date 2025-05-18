@@ -1,0 +1,4 @@
+[
+  {"name": "public-bucket", "public": true},
+  {"name": "internal-db", "public": false}
+]
