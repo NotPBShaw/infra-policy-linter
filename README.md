@@ -1,6 +1,8 @@
-# infra-policy-scanner
+# Infra Policy Linter
 
-![CI](https://github.com/TryKosm/infra-policy-scanner/actions/workflows/ci.yml/badge.svg)
+Infrastructure policy checks with structured findings.
+
+![CI](https://github.com/TryKosm/infra-policy-linter/actions/workflows/ci.yml/badge.svg)
 
 Go CLI for scanning infrastructure-as-code resources against policy rules.
 

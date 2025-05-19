@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"infra-policy-scanner/internal/scanner"
+	"infra-policy-linter/internal/scanner"
 )
 
 func main() {
