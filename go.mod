@@ -1,3 +1,3 @@
-module github.com/TryKosm/infra-policy-linter
+module github.com/NotPBShaw/infra-policy-linter
 
 go 1.22
